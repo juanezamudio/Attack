@@ -1,0 +1,1 @@
+# Example of hand-generated assembly code  popq  %rax
